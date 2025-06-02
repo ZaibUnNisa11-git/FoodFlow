@@ -1,0 +1,57 @@
+name,desc,price,category,review
+Cheeseburger (Halal),Juicy halal beef patty with cheese.,$10,Fast Food,4.5
+French Fries,Crispy potato fries with seasoning.,$5,Fast Food,4.0
+Chicken Nuggets (Halal),Bite-sized crispy halal chicken.,$8,Fast Food,4.0
+Grilled Chicken Sandwich,Halal chicken breast in fresh bread.,$12,Fast Food,4.5
+Chocolate Cake,Rich and creamy chocolate dessert.,$8,Dessert,3
+Tiramisu (No Alcohol),Italian coffee-flavored dessert.,$10,Dessert,2
+Mango Lassi,Sweet yogurt-based Indian drink.,$5,Drinks,1
+Strawberry Smoothie,Refreshing blended strawberry drink.,$6,Drinks,2
+Lentil Soup,Hearty Middle Eastern lentil soup.,$7,Soup,3
+Tomato Soup,Fresh tomato soup with herbs.,$7,Soup,3
+Vegetable Biryani,Spiced rice with mixed vegetables.,$12,Rice,4
+Chicken Biryani,Aromatic halal chicken rice dish.,$15,Rice,4.5
+Egg Fried Rice,Stir-fried rice with eggs and vegetables.,$11,Rice,3
+Mushroom Risotto,Creamy rice dish with mushrooms.,$14,Rice,5
+Paneer Butter Masala,Cottage cheese in creamy tomato sauce.,$14,Vegetarian,4
+Samosa,Crispy pastry filled with spiced potatoes.,$6,Vegetarian,3
+Falafel Wrap,Chickpea fritters wrapped in pita.,$11,Fast Food,4
+Hummus & Pita,Chickpea dip with soft pita bread.,$9,Vegetarian,5
+Butter Chicken (Halal),Creamy tomato-based chicken curry.,$16,Non-Vegetarian,4.5
+Chicken Tikka,Spiced grilled halal chicken pieces.,$14,Non-Vegetarian,4
+BBQ Chicken Wings,Grilled halal chicken wings.,$12,Non-Vegetarian,3
+Chicken Shawarma,Halal chicken wrap with garlic sauce.,$12,Fast Food,4
+Veggie Burger,Plant-based patty with fresh toppings.,$12,Fast Food,5
+Margherita Pizza,Classic delight with fresh tomatoes.,$12,Fast Food,4
+Pepperoni Pizza (Beef),Classic pizza topped with halal beef pepperoni.,$14,Fast Food,4
+Greek Salad,Fresh veggies with feta cheese.,$10,Vegetarian,5
+Bruschetta,Toasted bread with tomato topping.,$8,Vegetarian,4
+Fried Rice (Veg),Stir-fried rice with vegetables.,$10,Rice,4.5
+Spaghetti (Halal Chicken),Creamy pasta with grilled halal chicken.,$13,Non-Vegetarian,5
+Lasagna (Halal Beef),Layered pasta with halal beef and cheese.,$15,Non-Vegetarian,4
+Pho (Chicken),Vietnamese noodle soup with halal chicken.,$13,Soup,5
+Vegetable Ramen,Japanese noodle soup with vegetables.,$12,Soup,4
+Matcha Latte,Japanese green tea latte.,$6,Drinks,5
+Pasta Alfredo,Creamy pasta with parmesan cheese.,$14,Vegetarian,5
+Pav Bhaji,Spicy mashed vegetables with bread.,$10,Vegetarian,4
+Baked Ziti,Pasta with marinara and cheese.,$14,Vegetarian,4
+Fish & Chips (Halal),Crispy fried halal fish with fries.,$16,Non-Vegetarian,3
+Tandoori Chicken,Halal spiced grilled chicken.,$14,Non-Vegetarian,5
+Churros,Fried dough pastries with cinnamon sugar.,$7,Dessert,5
+Baklava,Sweet layered pastry with honey.,$8,Dessert,4
+Apple Pie,Classic American apple-filled pastry.,$8,Dessert,3
+Pumpkin Pie,Spiced pumpkin dessert with crust.,$7,Dessert,1
+Gelato,Italian-style creamy ice cream.,$7,Dessert,5
+Coconut Water,Natural hydrating drink.,$4,Drinks,4
+Iced Tea,Refreshing cold brewed tea.,$5,Drinks,5
+Milkshake,Blended ice cream drink.,$7,Drinks,3
+Bibimbap (Chicken),Korean rice bowl with halal chicken & egg.,$13,Rice,4
+Miso Soup (Veg),Light soup with tofu and seaweed.,$5,Soup,5
+Borscht (Veg),Beetroot soup with sour cream.,$7,Soup,4
+Chicken Adobo (Halal),Filipino soy sauce-based halal chicken stew.,$13,Non-Vegetarian,4
+Vindaloo (Chicken),Spicy halal chicken curry dish.,$15,Non-Vegetarian,4
+Khachapuri,Georgian cheese-filled bread.,$12,Vegetarian,5
+Empanadas (Beef),Fried pastry filled with halal beef.,$8,Non-Vegetarian,4
+Roast Chicken,Slow-roasted halal chicken with herbs.,$18,Non-Vegetarian,5
+Grilled Lamb Chops,Seasoned halal lamb chops.,$22,Non-Vegetarian,4
+Roast Beef (Halal),Slow-roasted halal beef with gravy.,$18,Non-Vegetarian,5
